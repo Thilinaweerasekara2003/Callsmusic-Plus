@@ -37,15 +37,15 @@ Made with ❤️ **@{UPDATES_CHANNEL}**""",
                 ],
                 [
                     InlineKeyboardButton(
-                        "📦 Source Code 📦", url="https://github.com/Itz-fork/Callsmusic-Plus"
+                        "📦 Source Code 📦", url="https://github.com/Thilinaweerasekara2003"
                     )
                 ],
                 [
                     InlineKeyboardButton(
-                        "🔰️ My Update Channel 🔰️", url=f"https://t.me/{UPDATES_CHANNEL}"
+                        "🔰️ My Update Channel 🔰️", url=f"https://t.me/hitecobotchanal"
                     ),
                     InlineKeyboardButton(
-                        "⚜️ Support Group ⚜️", url="https://t.me/Nexa_bots"
+                        "⚜️ Support Group ⚜️", url="https://t.me/HITecRobot"
                     )
                 ]
             ]
@@ -135,7 +135,7 @@ async def cbhowtouse(_, query: CallbackQuery):
 
 **Supported Url List:** https://ytdl-org.github.io/youtube-dl/supportedsites.html
 
-Made with ❤️ by **@{UPDATES_CHANNEL}**""",
+Made with ❤️ by **@{gangofmafiateem}**""",
         reply_markup=InlineKeyboardMarkup(
             [
                 [
@@ -202,7 +202,7 @@ async def cbytsearch(_, query: CallbackQuery):
     2. Example For Search via Command
      - `/ytsearch faded`
 
-Made with ❤️ by **@{UPDATES_CHANNEL}**""",
+Made with ❤️ by **@{Gangofmafiateem}**""",
         reply_markup=InlineKeyboardMarkup(
             [
                 [
@@ -271,7 +271,7 @@ async def cbytviddown(_, query: CallbackQuery):
 
 **Example:** `/ytvid faded`
 
-Made with ❤️ by **@{UPDATES_CHANNEL}**""",
+Made with ❤️ by **@{Gangofmafiateem}**""",
         reply_markup=InlineKeyboardMarkup(
             [
                 [
