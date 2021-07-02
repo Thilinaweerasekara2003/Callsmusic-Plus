@@ -22,7 +22,7 @@ I'm The Nexa Music Bot! A Powerful Bot to Play Music in Your Group Voice Chat �
 
 Also I have more features! Please hit on **/help** to see them 😘!
 
-Made with ❤️ **@{UPDATES_CHANNEL}**""",
+Made with ❤️ **@{hitecobotchanal}**""",
         reply_markup=InlineKeyboardMarkup(
             [
                 [
