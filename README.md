@@ -1,6 +1,6 @@
 # Calls Music Plus
 
-### ![MusicsNexa_bot](https://telegra.ph/file/1fa8fc72252ab8340f1e3.png)
+### ![MusicsNexa_bot](https://telegra.ph/file/d6c36873c06e34e720d6a.png)
 
 
 **A [CallsMusic](https://github.com/callsmusic/callsmusic) Based Telegram Bot and Userbot To Play Music in Your Telegram Groups With Some Cool Extra Features!**
