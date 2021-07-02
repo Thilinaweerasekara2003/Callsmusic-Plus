@@ -37,7 +37,7 @@ Made with ❤️ **@{UPDATES_CHANNEL}**""",
                 ],
                 [
                     InlineKeyboardButton(
-                        "📦 Source Code 📦", url="https://github.com/Thilinaweerasekara2003"
+                        "📦 Source Code 📦", url="https://github.com/Thilinaweerasekara2003/Callsmusic-Plus"
                     )
                 ],
                 [
