@@ -48,15 +48,15 @@ Made with ❤️ **@{UPDATES_CHANNEL}**""",
                 ],
                 [
                     InlineKeyboardButton(
-                        "📦 Source Code 📦", url="https://github.com/Itz-fork/Callsmusic-Plus"
+                        "📦 Source Code 📦", url="https://github.com/Thilinaweerasekara2003/Callsmusic-Plus"
                     )
                 ],
                 [
                     InlineKeyboardButton(
-                        "🔰️ My Update Channel 🔰️", url=f"https://t.me/{UPDATES_CHANNEL}"
+                        "🔰️ My Update Channel 🔰️", url=f"https://t.me/hitecobotchanal"
                     ),
                     InlineKeyboardButton(
-                        "⚜️ Support Group ⚜️", url="https://t.me/Nexa_bots"
+                        "⚜️ Support Group ⚜️", url="https://t.me/HITecRobot"
                     )
                 ]
             ]
@@ -145,17 +145,17 @@ Credits To,
 <b>TeamDaisyX</b>
 <b>N A C</b>
 
-Made with ❤️ by **@{UPDATES_CHANNEL}**""",
+Made with ❤️ by **@Gangofmafiateem**""",
         reply_markup=InlineKeyboardMarkup(
             [
                 [
                     InlineKeyboardButton(
-                        "🔰️ My Update Channel 🔰️", url=f"https://t.me/{UPDATES_CHANNEL}"
+                        "🔰️ My Update Channel 🔰️", url=f"https://t.me/hitecobotchanal"
                     )
                 ],
                 [
                     InlineKeyboardButton(
-                        "⚜️ Support Group ⚜️", url="https://t.me/Nexa_bots"
+                        "⚜️ Support Group ⚜️", url="https://t.me/HITecRobot"
                     )
                 ]
             ]
@@ -197,10 +197,10 @@ Enjoy 😌️❤️!""",
                 ],
                 [
                     InlineKeyboardButton(
-                        "🔰️ Update Channel 🔰️", url=f"https://t.me/{UPDATES_CHANNEL}"
+                        "🔰️ Update Channel 🔰️", url=f"https://t.me/hitecobotchanal"
                     ),
                     InlineKeyboardButton(
-                        "⚜️ Support Group ⚜️", url="https://t.me/Nexa_bots"
+                        "⚜️ Support Group ⚜️", url="https://t.me/HITecRobot"
                     )
                 ]
             ]
