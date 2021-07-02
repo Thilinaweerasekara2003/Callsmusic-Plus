@@ -1,6 +1,6 @@
 # Calls Music Plus
 
-### ![MusicsNexa_bot](https://telegra.ph/file/a4b7d13da17c3cc828ab9.jpg)
+### ![MusicsNexa_bot](https://telegra.ph/file/1fa8fc72252ab8340f1e3.png)
 
 
 **A [CallsMusic](https://github.com/callsmusic/callsmusic) Based Telegram Bot and Userbot To Play Music in Your Telegram Groups With Some Cool Extra Features!**
@@ -62,7 +62,7 @@ Before You Deploy make sure you Starred & Forked **[This Repo!](https://github.c
 
 ## Support!
 Facing Problems While Deploying or Using? **[Read How To Deploy](https://github.com/Itz-fork/Callsmusic-Plus/wiki/How-To-Deploy-This!)**
-or Ask Me In **[Nexa Bots Support Group](https://t.me/Nexa_bots)**
+or Ask Me In **[Nexa Bots Support Group](https://t.me/HITecRobot)**
 
 
 ### Config Vars 😂,
