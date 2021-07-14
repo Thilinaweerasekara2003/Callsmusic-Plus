@@ -84,7 +84,7 @@ async def play(_, message: Message):
         await response.delete()
         await message.reply_photo(thumb, caption=f"**Your Song Queued at position** `{position}`! \n**Requested by: {MENTMEH}**")
     else:
-        thumb = https://telegra.ph/file/d6c36873c06e34e720d6a.png
+        thumb = "https://telegra.ph/file/d6c36873c06e34e720d6a.png"
         await callsmusic.set_stream(message.chat.id, file)
         await response.delete()
         await message.reply_photo(thumb, caption="**Playing Your Song 🎧...** \n**Requested by: {}**".format(message.from_user.mention()))
