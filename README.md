@@ -172,7 +172,7 @@ Copy `example.env` to `.env` and fill it with your credentials.
 - **Abirhasan2005**
 - **DevsExpo**
 - **N A C CREATIVE**: For Voice Chat Link Command!
-- **deshadeeth-thisarana
+- deshadeeth-thisarana
 
 ## License
 
