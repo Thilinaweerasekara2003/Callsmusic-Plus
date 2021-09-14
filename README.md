@@ -5,7 +5,6 @@
 
 **A [CallsMusic](https://github.com/callsmusic/callsmusic) Based Telegram Bot and Userbot To Play Music in Your Telegram Groups With Some Cool Extra Features!**
 
-
 ## Note!⚠️ ,
 _**You need another (dummy) Telegram Account To Use/Deploy This!**_
 
