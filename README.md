@@ -51,7 +51,10 @@ Before You Deploy make sure you Starred & Forked **[This Repo!](https://github.c
 ### With Heroku
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Thilinaweerasekara2003/Gang-Of-Mafia-Vc)
 
+### Railway 
+<p><a href="https://railway.app/new/template?template=https://github.com/Thilinaweerasekara2003/Gang-Of-Mafia-Vc&envs=API_ID,API_HASH,STRING_SESSION,BOT_TOKEN,VIDEO_CHAT_ID"><img src="https://img.shields.io/badge/Deploy%20To%20Railway-blueviolet?style=for-the-badge&logo=railway" width="200""/></a></p>
 ### With Zeet
+ 
 <a href="https://zeet.co/new/template/itz-fork/yeah-my-man"><img src="https://user-images.githubusercontent.com/77770753/119371372-fe917900-bcd3-11eb-8db5-f5e8063cdd1c.jpg" width="94" height="28"></a>
 
 
